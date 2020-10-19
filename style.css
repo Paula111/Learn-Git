@@ -1,0 +1,35 @@
+body {
+    font-family: cursive;
+    font-size: 15px;
+    text-align: left;
+    background: #535c68;
+    color: #dff9fb;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 20px;
+    color: #ffbe76;
+}
+p {
+	
+	margin-top: 20px;
+	margin-bottom: 16px;
+	margin-left:10px;
+	width: 30%;
+	text-align : left;
+	text-indent: 10px;
+}
+h3 {
+    font-size: 17pxpx;
+    font-family: cursive;
+    margin-left: 20px;
+    color: #ffbe76;
+}
